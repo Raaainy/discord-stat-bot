@@ -1,4 +1,4 @@
-<h1 align="center">Discord Stat Bot 😍</h1>
+<h1 align="center">Mongoose Discord Stat Bot 😍</h1>
 <h3 align="center">Komutlar;</h3>
 
 - **`.me`** = Kendi ses ve chat verilerini gösterir,
