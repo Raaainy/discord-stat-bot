@@ -4,6 +4,7 @@
 - **`.me`** = Kendi ses ve chat verilerini gösterir,
 - **`.top`** = Genel sıralamayı gösterir,
 - **`.me @kullanıcı`** = Başka birinin verilerine bakmak isterseniz,
+- **`.rainy @rolid`** = Belirlediğiniz roldeki kişilerin ses ve chat sayılarını görebilirsiniz,
 
 
 <h3 align="left">Birlikte iletişim halinde olabiliriz:</h3>
